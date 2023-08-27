@@ -1,0 +1,46 @@
+{
+    "students": [
+      {
+        "name": "Hitarth",
+        "email": "hitarth@example.com",
+        "username": "hitarth123",
+        "password": "password123"
+      },
+      {
+        "name": "Preet",
+        "email": "preet@example.com",
+        "username": "preet456",
+        "password": "securepass"
+      },
+      {
+        "name": "Aditya",
+        "email": "aditya@example.com",
+        "username": "aditya789",
+        "password": "studentpass"
+      },
+  {
+        "name": "Athiya",
+        "email": "athiya@example.com",
+        "username": "athiya789",
+        "password": "studentpass"
+      },
+  {
+        "name": "Vedant",
+        "email": "vedant@example.com",
+        "username": "vedant789",
+        "password": "studentpass"
+      },
+  {
+        "name": "Aaprna",
+        "email": "aaprna@example.com",
+        "username": "aaprna789",
+        "password": "studentpass"
+      },
+  {
+        "name": "Dhruvi",
+        "email": "dhruvi@example.com",
+        "username": "dhruvi789",
+        "password": "studentpass"
+      }
+    ]
+  }
